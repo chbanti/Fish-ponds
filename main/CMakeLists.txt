@@ -1,0 +1,2 @@
+idf_component_register(SRCS "restart.c" "display.c" "sensors.c" "db_connect.c" "fish_selection.c" "analysis.c" "alert.c" "restart.cpp" "fish_selection.cpp" "data_collection.cpp" "alert.cpp" "main.c"
+                    INCLUDE_DIRS ".") ".")"))")")

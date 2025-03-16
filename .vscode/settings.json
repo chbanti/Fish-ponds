@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\DELL\\esp\\v4.4.4\\esp-idf",
+    "idf.pythonInstallPath": "c:\\esp-idf\\tools\\tools\\idf-python\\3.8.7\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM27",
+    "idf.toolsPathWin": "c:\\esp-idf\\tools",
+    "files.associations": {
+        "data_collection.h": "c"
+    }
+}
