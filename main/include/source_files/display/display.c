@@ -15,7 +15,9 @@ void display_fish_selection() {
 void display_sensor_readings() {
     // Empty implementation
 }
-
+void display_analyze_data(){
+    
+}
 void display_normal_operation() {
     // Empty implementation
 }

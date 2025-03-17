@@ -23,3 +23,6 @@ float read_oxidation() {
     // Empty implementation
     return 0.0;
 }
+float read_TDS(){
+    
+}
